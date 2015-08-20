@@ -4,4 +4,9 @@
 	 * -----------------------------------------------------*/
 include('wp-hooks-examples/wp-filters-example.php');
 
+	/*
+	 * Title customization with filters example
+	 * -----------------------------------------------------*/
+include('wp-hooks-examples/wp-title.php');
+
 ?>
